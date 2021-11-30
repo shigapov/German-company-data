@@ -21,7 +21,7 @@ Announcements that are made by the companies themselves are published on:
 
 ## Third-party providers of the same data
 
-1. [OpenCorporates](https://opencorporates.com) & [Offeneregister](https://offeneregister.de) provide the data scraped from [Handelsregisterbekanntmachungen](https://www.handelsregisterbekanntmachungen.de)
+1. [OpenCorporates](https://opencorporates.com) & [Offeneregister](https://offeneregister.de) provide the data scraped from [Handelsregisterbekanntmachungen](https://www.handelsregisterbekanntmachungen.de). The [data quality issues](https://github.com/opencorporates/de_data_quality/issues) are collected separately.
 2. [NorthData](https://www.northdata.de) [[data overview](https://www.northdata.de/_coverage)]
 3. [Online-Handelsregister](https://www.online-handelsregister.de) 
 4. [Unternehmen24](https://www.unternehmen24.info)
