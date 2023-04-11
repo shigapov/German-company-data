@@ -32,3 +32,16 @@ Announcements that are made by the companies themselves are published on:
 ## Wrappers of the APIs & Scrapers
 
 1. [Deutschland](https://github.com/bundesAPI/deutschland) Python library sends requests to Handelsregister and Bundesanzeiger
+
+## Historical Data
+
+1. [Hoppenstedt Aktienführer](https://de.wikipedia.org/wiki/Hoppenstedt_Aktienführer)
+   * [Aktienführer Database](https://digi.bib.uni-mannheim.de/aktienfuehrer/data/index.php) contains full data from Hoppenstedt-Aktienführer from 1956 to 2018. Access is restricted, can be provided for research purposes only.
+   * [Aktienführer Knowledge Graph](https://akf.kgi.uni-mannheim.de) is a (meta)data knowledge graph for Hoppenstedt-Aktienführer enriched with many company identifiers. License is CC0.
+2. [Pressearchiv 20. Jahrhundert](https://de.wikipedia.org/wiki/Pressearchiv_20._Jahrhundert)
+   * [Homepage](https://pm20.zbw.eu)
+   * [Data dump at Zenodo](https://doi.org/10.5281/zenodo.1471430). License is CC0.
+   * [SPARQL queries](https://github.com/zbw/sparql-queries/tree/master/pm20)
+   * [Wikidata:WikiProject 20th Century Press Archives](https://www.wikidata.org/wiki/Wikidata:WikiProject_20th_Century_Press_Archives)
+
+
